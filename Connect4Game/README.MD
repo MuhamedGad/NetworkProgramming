@@ -32,7 +32,7 @@ Once the client has successfully connected to the server, the game will begin. P
 
 ## Authors
 
-- [Your Name](https://github.com/yourgithubusername) - Initial work
+- [Mohamed Gad]([https://github.com/yourgithubusername](https://github.com/MuhamedGad)) - Initial work
 
 ## Acknowledgments
 
