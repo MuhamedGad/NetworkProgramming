@@ -7,8 +7,6 @@ This project is a multiplayer game of Connect 4 implemented in Python using the 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -30,18 +28,7 @@ To install and run the game, follow these steps:
 
 Once the client has successfully connected to the server, the game will begin. Players will take turns dropping their colored pieces into the game board by clicking on the desired column in the game window. The first player to get four pieces in a row (horizontally, vertically, or diagonally) wins the game.
 
-## Contributing
 
-Contributions to this project are welcome! To contribute, please follow these steps:
-
-1. Fork this repository to your own account.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your fork and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Authors
 
