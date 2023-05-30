@@ -38,7 +38,6 @@ Once the client has successfully connected to the server, the game will begin. P
 
 - The game logic for Connect 4 was based on the implementation by [KeithGalli](https://github.com/KeithGalli) found at [Connect4-Python](https://github.com/KeithGalli/Connect4-Python).
 - The Pygame library was used to create the game window and handle user input.
-- Inspiration and guidance for implementing the multiplayer functionality came from [Real Python](https://realpython.com/python-sockets/).
 
 ## Conclusion
 
